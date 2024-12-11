@@ -170,7 +170,7 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
 
 1. **Log in to your Google Account** at [https://myaccount.google.com/](https://myaccount.google.com/).
 2. Navigate to **Security** from the left sidebar.
-3. Scroll down to the **"Signing in to Google"** section and make sure **2-Step Verification** is turned ON.
+3. Scroll down to the **"How you sign in to Google"** section and make sure **2-Step Verification** is turned ON.
 4. Once 2-Step Verification is enabled, you'll see an option for **App Passwords**.
 5. Click on **App Passwords**. You may need to enter your Google account password again.
 6. In the **Select app** dropdown, choose "Mail", and for **Select device**, choose "Other (Custom name)" and name it appropriately (e.g., "Portfolio").
@@ -193,7 +193,7 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
 
 To display your blog posts from dev.to on the portfolio:
 
-1. Set your `devUsername` in the `utils/data.js` file to your dev.to username.
+1. Set your `devUsername` in the `utils/data/personal-data.js` file to your dev.to username.
 2. The application will automatically fetch your latest blog posts and display them in the **BLOG** section.
 3. Ensure your blogs are publicly visible on dev.to, and the application will fetch them using the dev.to API.
 

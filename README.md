@@ -1,4 +1,4 @@
-# [My personal portfolio ](https://LovelyDev829.github.io)
+# [My personal portfolio ](https://josue-valdivia.netlify.app/)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://LovelyDev829.github.io).
+## View live preview [here](https://josue-valdivia.netlify.app/).
 
 ---
 
@@ -108,7 +108,7 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/LovelyDev829/Josue.valdivia.portfolio/tree/main/utils/data).
 
 Eg:
 
